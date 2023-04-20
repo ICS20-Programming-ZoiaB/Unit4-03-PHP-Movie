@@ -1,0 +1,30 @@
+/* Created by: ZoiaB
+* Created on: Apr 2023
+* This CSS file defines the style for index.php
+* ICS2O-Unit4-03-PHP-Movie
+*/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 80%;
+  margin: 5% 10%;
+  background-color: #d28484;
+  padding-left: 10px;
+}
+
+h1 {
+ color: #97d7e7;
+  background-color: #ecec98;
+}
+
+h3 {
+ color: #ecec98;
+}
+
+iframe {
+ border: none;
+ width: 80%;
+ margin-left: 10%;
+ padding: 20px 0px;
+ height: 60px;
+}
