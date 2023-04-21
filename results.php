@@ -36,7 +36,7 @@ elseif (empty($userAge)) {
     $message = "Please enter age.";
 }
 
-//else: if user is under 5, tell them they need supervision
+//else: otherwise (any age less than 5), tell them they need supervision
 else {
     $message = "You should be supervised by a parent or guardian while watching any movie.";
 }
